@@ -1,5 +1,3 @@
---vales vrg TK HP
-
 use master
 go
 drop database TECAv8
