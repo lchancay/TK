@@ -1,0 +1,22 @@
+crear base
+
+crear 3 proyecto de la solucion con su nombre
+agregar carpetas de modulos
+agregar referencias
+crear clases 
+agregar entity
+crear clase para funcion consulta instanciar l entity y las clases
+f6
+diseno de pantalla crear nuevo ventana en la carpeta del modulo
+agregar toolstrip y agregar gridcontrol en la pantalla de consulta
+crear la funcion cargar en el formulario y ponerla en el load de la pantalla
+setear la pantalla que se va a ejecutar
+probar
+--hacer guardar y update
+crear funcion de guardar y update en la clase 
+crear pantalla de mantenimiento con text label y combo para genero
+hacer las propiedades para setear el mantenimiento
+obtener el registro del grid para enviarlo a la pantalla de mantenimiento
+propiedad para diferenciar si es update o nuevo o consulta
+llamar las funciones de guardar
+
